@@ -6,5 +6,5 @@
   "backfill-with-context": 0,
   "backfill-mentioned-users": 1,
   "from-notifications": 1,
-  "http-timeout": 1
+  "http-timeout": 10
 }
