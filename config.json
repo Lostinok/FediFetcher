@@ -1,10 +1,10 @@
 {
   "server": "social.lostinok.com",
   "home-timeline-length": 200,
-  "max-followings": 10,
+  "max-followings": 80,
   "max-followers": 80,
   "backfill-with-context": 0,
-  "backfill-mentioned-users": 1,
+  "backfill-mentioned-users": 0,
   "from-notifications": 1,
   "http-timeout": 10
 }
